@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of persianfla/rtl.** Not for installation: use [Packagist](https://packagist.org/packages/persianfla/rtl) or the [upstream repository](https://github.com/persianfla/rtl).
 
-**0** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/persianfla-rtl/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^0.1.0-beta.9`
+**2** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/persianfla-rtl/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^0.1.0-beta.9`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2019-03-31 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/persianfla-rtl/tree/archive/v0.0.1) |
+| `0.0.2` | 2019-08-21 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/persianfla-rtl/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/persianfla-rtl.json](https://github.com/flarchive/archive-index/blob/main/packages/persianfla-rtl.json)
 
